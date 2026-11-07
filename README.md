@@ -21,13 +21,13 @@ A Botium Toys é uma loja de brinquedos que vende por meios físico e online. Co
 
 ## Arquivos
 
-|Arquivo|Descrição|
-|-|-|
-|`Botium\_Toys\_\_Scope\_\_goals\_\_and\_risk\_assessment\_report.docx`|Cenário: escopo, metas e avaliação de risco|
-|`Control\_categories.docx`|Categorias e tipos de controles|
-|`Controls\_and\_compliance\_checklist.docx`|Checklist original|
-|`Checklist\_controles\_conformidade\_Botium\_Toys.docx`|Checklist preenchido|
-|`Relatorio\_auditoria\_seguranca\_Botium\_Toys.docx`|Relatório de auditoria|
+| Arquivo | Descrição |
+|---|---|
+| [Scope, Goals and Risk Assessment Report](./Work%20-%20Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.docx) | Cenário: escopo, metas e avaliação de risco |
+| [Control Categories](./Work%20-%20Control%20categories.docx) | Categorias e tipos de controles |
+| [Controls and Compliance Checklist](./Work%20-%20Controls%20and%20compliance%20checklist.docx) | Checklist original |
+| [Checklist Controles Conformidade](./Checklist_controles_conformidade_Botium_Toys.docx) | Checklist preenchido |
+| [Relatório Auditoria Segurança](./Relatorio_auditoria_seguranca_Botium_Toys.docx) | Relatório de auditoria |
 
 ## Habilidades demonstradas
 
